@@ -1,0 +1,18 @@
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\bin\Debug\netstandard2.0\World Time Xamarin.deps.json
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\bin\Debug\netstandard2.0\World Time Xamarin.dll
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\bin\Debug\netstandard2.0\ref\World Time Xamarin.dll
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\bin\Debug\netstandard2.0\World Time Xamarin.pdb
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\World Time Xamarin.csprojAssemblyReference.cache
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\World Time Xamarin.AssemblyInfoInputs.cache
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\World Time Xamarin.AssemblyInfo.cs
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\World Time Xamarin.dll
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\ref\World Time Xamarin.dll
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\World Time Xamarin.pdb
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\World Time Xamarin.csproj.CoreCompileInputs.cache
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Repos\Mobile\Xamarin\World Time Xamarin\World Time Xamarin\World Time Xamarin\obj\Debug\netstandard2.0\World Time Xamarin.csproj.CopyComplete

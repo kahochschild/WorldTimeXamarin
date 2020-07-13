@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VKLfAz+twS9tnpEQPmXyfB+a0YhA24+hVgMEJ6oCy4ZazGbx055wy4tpl3pRvsYD1QfCCYvuRgOkGXZjkZnaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Mobile\\Xamarin\\World Time Xamarin\\World Time Xamarin\\World Time Xamarin.iOS\\World Time Xamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khoch\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\khoch\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

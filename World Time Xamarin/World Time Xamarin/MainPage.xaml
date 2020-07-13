@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:world_time_xamarin="clr-namespace:World_Time_Xamarin"
+             mc:Ignorable="d"
+             x:Class="World_Time_Xamarin.MainPage">
+
+    <StackLayout 
+        Orientation="Vertical" 
+        HorizontalOptions="Fill"
+        VerticalOptions="StartAndExpand"
+        Spacing="15"
+        Margin="15">
+        <Label Text="World Time"
+           FontSize="Title"
+           HorizontalOptions="Center" />
+        <Button Text="Get Time Zones"
+            HorizontalOptions="Center"
+            Clicked="Button_Clicked" />
+        <StackLayout 
+            x:Name="sl1" Orientation="Horizontal" 
+            HorizontalOptions="FillAndExpand" VerticalOptions="Start" Spacing="10"
+            IsVisible="false">
+            <Label Text="Pick Time Zone:" 
+                   VerticalOptions="Center"/>
+            <Picker x:Name="pkrTimeZones"
+                    WidthRequest="250"
+                    SelectedIndexChanged="pkrTimeZones_SelectedIndexChanged" />
+        </StackLayout>
+        <StackLayout 
+            x:Name="sl2" Orientation="Vertical"
+            HorizontalOptions="FillAndExpand" VerticalOptions="Start" Spacing="10"
+            IsVisible="false">
+            <Label x:Name="lblAbbrev" Text="Abbreviation:" />
+            <Label x:Name="lblClientIP" Text="Client IP:" />
+            <Label x:Name="lblDateTime" Text="Date Time:" />
+            <Label x:Name="lblDayofWeek" Text="Day of Week:" />
+            <Label x:Name="lblDayofYear" Text="Day of Year:" />
+            <Label x:Name="lblDST" Text="DST:" />
+            <Label x:Name="lblDSTFrom" Text="DST From:" />
+            <Label x:Name="lblDSTOffset" Text="DST Offset:" />
+            <Label x:Name="lblDSTUntil" Text="DST Until:" />
+            <Label x:Name="lblRawOffset" Text="Raw Offset:" />
+            <Label x:Name="lblTimeZone" Text="Time Zone:" />
+            <Label x:Name="lblUnixTime" Text="Unix Time:" />
+            <Label x:Name="lblUTCDateTime" Text="UTC Date Time:" />
+            <Label x:Name="lblUTCOffset" Text="UTC Offset:" />
+            <Label x:Name="lblWeekNumber" Text="Week Number:" />
+            
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
