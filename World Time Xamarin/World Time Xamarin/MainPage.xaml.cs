@@ -50,15 +50,18 @@ namespace World_Time_Xamarin
 
                 sl2.IsVisible = true;
 
+                var dstfrom = "DST From: " + es.dst_from;
+                var dstuntil = "DST Until: " + es.dst_from;
+
                 lblAbbrev.Text = "Abbrev: " + es.abbreviation;
                 lblClientIP.Text = "Client IP: " + es.client_ip;
                 lblDateTime.Text = "Date Time: " + es.datetime;
                 lblDayofWeek.Text = "Day of Week: " + es.day_of_week.ToString();
                 lblDayofYear.Text = "Day of Year: " + es.day_of_year.ToString();
                 lblDST.Text = "DST: " + es.dst.ToString();
-                lblDSTFrom.Text = "DST From: " + es.dst_from == null ? "" : es.dst_from;
+                lblDSTFrom.Text = es.dst_from == null ? "" : dstfrom;
                 lblDSTOffset.Text = "DST Offset: " + es.dst_offset.ToString();
-                lblDSTUntil.Text = "DST Until: " + es.dst_until == null ? "" : es.dst_until;
+                lblDSTUntil.Text = es.dst_until == null ? "" : dstuntil;
                 lblRawOffset.Text = "Raw Offset: " + es.raw_offset.ToString();
                 lblTimeZone.Text = "Time Zone: " + es.timezone;
                 lblUnixTime.Text = "Unix Time: " + es.unixtime.ToString();
